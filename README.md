@@ -31,4 +31,3 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedmed&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="muhammedmed" /> </p> <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammedmed&show_icons=true&theme=tokyonight&locale=en" alt="dcselek" /></p>
 
-  ![snake svg](https://github.com/muhammedmed/muhammedmed/blob/output/github-contribution-grid-snake.svg)
