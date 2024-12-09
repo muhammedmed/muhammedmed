@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Frontend Developer.
-- 🌱 &nbsp; Learning more about React.
+- 🤔 &nbsp; Free 
+  
 
 ---
 <h1 align="center"> Visitors </h1>
