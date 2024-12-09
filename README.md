@@ -1,4 +1,3 @@
-## Hey there, I'm Muhammed
 
 ### 👨🏻‍💻 &nbsp;About Me
 
