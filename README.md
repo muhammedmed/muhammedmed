@@ -11,14 +11,7 @@
 
 ---
 
-### 🤝🏻 &nbsp;Connect with Me 
 
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammedemindagdelen/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="muhammedmed" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/muhammedmed" target="blank"><img  bacground-color="blue" align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="muhammedmed" height="30" width="40" /></a>
-</p>
-
----
 
 ### 🛠 &nbsp;Languages and Tools
 
